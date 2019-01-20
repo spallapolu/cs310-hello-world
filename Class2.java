@@ -1,6 +1,6 @@
 /**
  *
- * @author Your Name
+ * @author Shameera Pallapolu
  */
 
 public class Class2 {
